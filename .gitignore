@@ -1,0 +1,10 @@
+build/
+out/
+.vs/
+vcpkg_installed/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+*.user
+*.suo
+.vscode/settings.json
